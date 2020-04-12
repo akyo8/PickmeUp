@@ -1,0 +1,43 @@
+dependencies: \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextViewManager.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextViewManager.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTAccessibilityManager.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTShadowView+Layout.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextShadowView.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextShadowView.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextAttributes.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextTransform.h \
+  /Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/ios/Pods/Headers/Public/React-Core/React/RCTTextView.h

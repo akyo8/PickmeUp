@@ -1,0 +1,4 @@
+#Fri Apr 10 10:47:28 PDT 2020
+base.0=/Volumes/Work/Projects/ReactNative/Pickmeup/Pickmeup/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
